@@ -1,13 +1,13 @@
 ## Hi there 
 
 🎓 BTech CSE Graduate  
-💡 Exploring Data Analytics, Python, and SQL    
+💡 Exploring Data Analytics,java, Python, and SQL    
 🌱 Passionate about coding, problem-solving, and continuous learning  
 
 ---
 
 ### 🔧 Skills
-- Programming: Python | C | Java  
+- Programming: Python | C | Java  node.js
 - Databases: SQL  
 - Tools: Git, GitHub, VS Code  
 
